@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0089495-0029-4453-b6ce-6b67b26f1fe2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlphaVantage/AlphaVantage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BigNumber/src/bignumber/BigNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BigNumber/src/bignumber/BigNumberADTNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BigNumber/src/bignumber/BigNumberEmptyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BigNumber/src/bignumber/BigNumberImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BigNumber/src/bignumber/BigNumberNonEmptyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BigNumber/test/BigNumberImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Big_Number_new/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Big_Number_new/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Big_Number_new/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Big_Number_new/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Big_Number_new/Big_Number_new.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Big_Number_new/src/bignumber/BigNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Big_Number_new/src/bignumber/BigNumberADTNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Big_Number_new/src/bignumber/BigNumberEmptyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Big_Number_new/src/bignumber/BigNumberImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Big_Number_new/src/bignumber/BigNumberNonEmptyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Big_Number_new/test/BigNumberImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/Book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork calc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork calc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork calc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork calc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork calc/classwork calc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork calc/src/calculator/CalcController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork calc/src/calculator/CalcControllerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork calc/src/calculator/CalculatorModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork calc/src/calculator/CalculatorModelImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork calc/src/calculator/SimpleCalc1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork calc/test/calculator/CalcControllerImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/Archive 2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/Archive 3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/Archive 4.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/Archive 5.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/Archive 6.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/Archive.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/lab6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/solution/bst/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/solution/bst/BSTElementNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/solution/bst/BSTEmptyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/solution/bst/BSTImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/solution/bst/BSTNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/solution/listadt/GenericElementNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/solution/listadt/GenericEmptyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/solution/listadt/GenericListADTNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/solution/listadt/ListADT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/solution/listadt/ListADTImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/test/BinarySearchTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/test/ListADTTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/lab1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/lab1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/Particle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/PersonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/src/intellij-java-google-style.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Hv6CO6hinthFarT0ip2h3TOetJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/tanvimagdum/IdeaProjects/individual/code (12)"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0089495-0029-4453-b6ce-6b67b26f1fe2" name="Changes" comment="" />
+      <created>1669153081546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669153081546</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
